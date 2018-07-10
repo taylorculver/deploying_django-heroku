@@ -1,0 +1,1 @@
+web: unicorn —python path djangoal djangoal.wsgi —log-file -
