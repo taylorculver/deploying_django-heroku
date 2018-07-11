@@ -1,4 +1,4 @@
-from djangoal.djangoal.settings import *
+from djangoal.settings import *
 
 DEBUG = False
 TEMPLATE_DEBUG = DEBUG
