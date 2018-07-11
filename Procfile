@@ -1,1 +1,1 @@
-web: gunicorn —python path djangoal djangoal.wsgi —log-file -
+web: gunicorn --pythonpath djangoal djangoal.wsgi --log-file -
