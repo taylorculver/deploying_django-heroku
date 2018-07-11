@@ -1,1 +1,1 @@
-web: gunicorn --pythonpath djangoal djangoal.deploy --log-file -
+web: gunicorn --pythonpath djangoal djangoal.deploy.py --log-file -
