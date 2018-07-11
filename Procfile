@@ -1,1 +1,1 @@
-web: unicorn —python path djangoal djangoal.wsgi —log-file -
+web: gunicorn —python path djangoal djangoal.wsgi —log-file -
